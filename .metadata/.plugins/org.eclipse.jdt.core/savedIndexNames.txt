@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\bruno\Documents\GitHub\Exercicios-Curso-Java-POO\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2526166822.index
+3784642480.index
+2023513610.index
